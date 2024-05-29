@@ -4,3 +4,6 @@
 - With 7 years of experience in customer service, I have developed resilience and focus.
 - Recognized for the ability to simplify complex topics and solve problems efficiently.
 - Enthusiastic about developing solutions in various scenarios.
+
+Linkedin: https://www.linkedin.com/in/daianesinzato/?originalSubdomain=br
+daianesinzato@gmail.com
