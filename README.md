@@ -29,51 +29,84 @@
         <li>Bootcamp em Análise de Dados, Laboratoria - Em andamento (conclusão prevista para setembro de 2024)</li>
       </ul>
     </section>
-    <section id="skills">
-      <h3>Habilidades</h3>
-      <div class="skills-grid">
-        <div class="skill-item">
-          <div>Análise de Dados</div>
-          <img src="data_analysis_skills.gif" alt="Habilidades em Análise de Dados">
-          <div class="progress-bar">
-            <div class="progress" style="width: 85%"></div>
-          </div>
-          <div class="skill-level">(85%)</div>
-        </div>
-        <div class="skill-item">
-          <div>Python</div>
-          <img src="python_skills.gif" alt="Habilidades em Python">
-          <div class="progress-bar">
-            <div class="progress" style="width: 70%"></div>
-          </div>
-          <div class="skill-level">(70%)</div>
-        </div>
-        <div class="skill-item">
-          <div>Planilhas Google</div>
-          <img src="sheets_skills.gif" alt="Habilidades em Planilhas Google">
-          <div class="progress-bar">
-            <div class="progress" style="width: 100%"></div>
-          </div>
-          <div class="skill-level">(100%)</div>
-        </div>
-        <div class="skill-item">
-          <div>Excel</div>
-          <img src="excel_skills.gif" alt="Habilidades em Excel">
-          <div class="progress-bar">
-            <div class="progress" style="width: 97%"></div>
-          </div>
-          <div class="skill-level">(97%)</div>
-        </div>
-        <div class="skill-item">
-          <div>Aprendizado de Máquina</div>
-          <img src="machine_learning_skills.gif" alt="Habilidades em Aprendizado de Máquina">
-          <div class="progress-bar">
-            <div class="progress" style="width: 57%"></div>
-          </div>
-          <div class="skill-level">(57%)</div>
-        </div>
-        <div class="skill-item">
-          <div>Power BI</div>
-          <img src="power_bi_skills.gif" alt="Habilidades em Power BI">
-          <div class="progress-bar">
-            <div class="progress" style="width: 97
+<section id="skills">
+  <h3>Habilidades</h3>
+  <div class="skills-grid">
+    <div class="skill-item">
+      <div>Análise de Dados</div>
+      <img src="data_analysis_skills.gif" alt="Habilidades em Análise de Dados">
+      <div class="progress-bar">
+        <div class="progress" style="width: 70%"></div>
+      </div>
+      <div class="skill-level">(70%)</div>
+    </div>
+    <div class="skill-item">
+      <div>Python</div>
+      <img src="python_skills.gif" alt="Habilidades em Python">
+      <div class="progress-bar">
+        <div class="progress" style="width: 90%"></div>
+      </div>
+      <div class="skill-level">(90%)</div>
+    </div>
+    <div class="skill-item">
+      <div>Planilhas Google</div>
+      <img src="sheets_skills.gif" alt="Habilidades em Planilhas Google">
+      <div class="progress-bar">
+        <div class="progress" style="width: 89%"></div>
+      </div>
+      <div class="skill-level">(89%)</div>
+    </div>
+    <div class="skill-item">
+      <div>Excel</div>
+      <img src="excel_skills.gif" alt="Habilidades em Excel">
+      <div class="progress-bar">
+        <div class="progress" style="width: 54%"></div>
+      </div>
+      <div class="skill-level">(54%)</div>
+    </div>
+    <div class="skill-item">
+      <div>Aprendizado de Máquina</div>
+      <img src="machine_learning_skills.gif" alt="Habilidades em Aprendizado de Máquina">
+      <div class="progress-bar">
+        <div class="progress" style="width: 57%"></div>
+      </div>
+      <div class="skill-level">(57%)</div>
+    </div>
+    <div class="skill-item">
+      <div>Power BI</div>
+      <img src="power_bi_skills.gif" alt="Habilidades em Power BI">
+      <div class="progress-bar">
+        <div class="progress" style="width: 87%"></div>
+      </div>
+      <div class="skill-level">(87%)</div>
+    </div>
+    <div class="skill-item">
+      <div>Google Scripts</div>
+      <img src="google_script_skills.gif" alt="Habilidades em Google Scripts"> <div class="progress-bar">
+        <div class="progress" style="width: 60%"></div>
+      </div>
+      <div class="skill-level">(60%)</div>
+    </div>
+    <div class="skill-item">
+      <div>BPMN</div>
+      <img src="bpmn_skills.gif" alt="Habilidades em BPMN"> <div class="progress-bar">
+        <div class="progress" style="width: 90%"></div>
+      </div>
+      <div class="skill-level">(90%)</div>
+    </div>
+    <div class="skill-item">
+      <div>Looker</div>
+      <img src="looker_skills.gif" alt="Habilidades em Looker"> <div class="progress-bar">
+        <div class="progress" style="width: 90%"></div>
+      </div>
+      <div class="skill-level">(90%)</div>
+    </div>
+    <div class="skill-item">
+      <div>SQL</div>
+      <img src="sql_skills.gif" alt="Habilidades em SQL"> <div class="progress-bar">
+        <div class="progress" style="width: 90%"></div>
+      </div>
+      <div class="skill-level">(90%)</div>
+    </div>
+  </div>
+</section>
