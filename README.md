@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Daiane Oliveira Sinzato - Analista de Dados e Solucionadora de Problemas</title>
+  <title>Daiane Oliveira Sinzato - Analista de Dados e Processos</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
     <h1>Daiane Oliveira Sinzato</h1>
-    <h2>Analista de Dados e Solucionadora de Problemas</h2>
+    <h2>Analista de Dados e Processs</h2>
     <a href="https://www.linkedin.com/in/daianesinzato/?originalSubdomain=br">LinkedIn</a>
   </header>
   <main>
@@ -31,10 +31,13 @@
     </section>
 <section id="skills">
   <h3>Habilidades</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+
   <div class="skills-grid">
     <div class="skill-item">
       <div>Análise de Dados</div>
-      <img src="data_analysis_skills.gif" alt="Habilidades em Análise de Dados">
+      <img src="https://media.giphy.com/media/Ip28Im1VIxPwOxEO4q/giphy.gif?cid=ecf05e478m62nxhusasj8ri8o2a6ixdt09u5ws3nd04bt8rn&ep=v1_stickers_search&rid=giphy.gif&ct=s" 
+        alt="Habilidades em Análise de Dados">
       <div class="progress-bar">
         <div class="progress" style="width: 70%"></div>
       </div>
@@ -70,7 +73,7 @@
       <div class="progress-bar">
         <div class="progress" style="width: 57%"></div>
       </div>
-      <div class="skill-level">(57%)</div>
+      <div class="skill-level">(77%)</div>
     </div>
     <div class="skill-item">
       <div>Power BI</div>
@@ -106,7 +109,6 @@
       <img src="sql_skills.gif" alt="Habilidades em SQL"> <div class="progress-bar">
         <div class="progress" style="width: 90%"></div>
       </div>
-      <div class="skill-level">(90%)</div>
-    </div>
-  </div>
 </section>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
