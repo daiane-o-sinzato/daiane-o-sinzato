@@ -88,7 +88,7 @@
       <img src="google_script_skills.gif" alt="Habilidades em Google Scripts"> <div class="progress-bar">
         <div class="progress" style="width: 60%"></div>
       </div>
-      <div class="skill-level">(60%)</div>
+      <div class="skill-level">(80%)</div>
     </div>
     <div class="skill-item">
       <div>BPMN</div>
