@@ -108,13 +108,16 @@
       <h3>Projects</h3>
       <ul>
         <li>
-          <b>Segmentation:</b> Data analysis for El Mercado (Tools: Python, Pandas, Matplotlib, SQL, Looker). [See project]
+          <b>Segmentation:</b> Data analysis for El Mercado (Tools: Python, Pandas, Matplotlib, SQL, Looker).  
+          <a href="https://www.linkedin.com/in/daianesinzato/?originalSubdomain=br](https://www.youtube.com/watch?v=MqmNyqcME_A"> Veja aqui</p>
         </li>
         <li>
-          <b>Hypotheses:</b> Exploration of hypotheses in data analysis (Tools: Python, NumPy, SciPy, SQL, Power BI). [See project]
+          <b>Hypotheses:</b> Exploration of hypotheses in data analysis (Tools: Python, NumPy, SciPy, SQL, Power BI). 
+            <a href="https://youtu.be/QL7jyHN2XPo"> Veja aqui</p>
         </li>
         <li>
-          <b>DATASUS:</b> Tracking patterns in breast cancer in Brazil (Tools: Oracle). [See project]
+          <b>DATASUS:</b> Tracking patterns in breast cancer in Brazil (Tools: Oracle). 
+          <a href="https://youtu.be/FYZllru4tMM"> Veja aqui</p>
         </li>
       </ul>
     </section>
