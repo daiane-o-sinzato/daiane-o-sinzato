@@ -1,234 +1,46 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Daiane Oliveira Sinzato | Analista de Dados & Processos</title>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Poppins', sans-serif;
-      margin: 0;
-      background: #f7f8fa;
-      color: #222;
-      line-height: 1.6;
-      text-align: center;
-    }
+# Project Title
 
-    header {
-      background: #000;
-      color: #fff;
-      padding: 2rem 1rem;
-    }
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/daiane-o-sinzato/daiane-o-sinzato/actions) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-    header h1 {
-      margin: 0;
-      font-size: 2.2rem;
-    }
+## Table of Contents
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-    header h2 {
-      margin: 0.3rem 0 1rem;
-      font-weight: 400;
-    }
+## Introduction
 
-    .links a {
-      color: #FFD700;
-      text-decoration: none;
-      margin: 0 0.5rem;
-    }
+This is a brief introduction to the project, its purpose, and main features. Describe what the project does and its intended audience.
 
-    section {
-      padding: 2rem 1rem;
-      max-width: 900px;
-      margin: auto;
-      text-align: left;
-    }
+## Installation
 
-    h3 {
-      color: #222;
-      border-bottom: 2px solid #FFD700;
-      display: inline-block;
-      padding-bottom: 0.3rem;
-    }
+Instructions for setting up the project locally. Include any prerequisites and step-by-step guidance.
 
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
+```bash
+# Clone the repository
+git clone https://github.com/daiane-o-sinzato/daiane-o-sinzato.git
 
-    ul li {
-      margin: 0.5rem 0;
-    }
+# Navigate into the directory
+cd daiane-o-sinzato
 
-    .skills-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-      gap: 1.5rem;
-      margin-top: 1rem;
-    }
+# Install dependencies
+npm install
+```
 
-    .skill-item {
-      background: #fff;
-      border-radius: 8px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-      padding: 1rem;
-      text-align: center;
-    }
+## Usage
 
-    .skill-item img {
-      width: 100%;
-      border-radius: 6px;
-    }
+Explain how to use the project after installation. Provide examples and code snippets if applicable.
 
-    .progress-bar {
-      height: 8px;
-      background: #ddd;
-      border-radius: 4px;
-      margin-top: 0.5rem;
-    }
+```javascript
+// Example usage
+console.log('Hello, World!');
+```
 
-    .progress {
-      height: 8px;
-      background: #FFD700;
-      border-radius: 4px;
-    }
+## Contributing
 
-    footer {
-      background: #000;
-      color: #fff;
-      padding: 1rem;
-      font-size: 0.9rem;
-      text-align: center;
-    }
+Guidelines for contributing to the project. Encourage users to open issues and submit pull requests.
 
-    footer a {
-      color: #FFD700;
-      text-decoration: none;
-    }
+## License
 
-    .divider-gif, .footer-gif {
-      max-width: 200px;
-      display: block;
-      margin: 1rem auto;
-    }
-
-    @media (max-width: 600px) {
-      header h1 { font-size: 1.8rem; }
-      header h2 { font-size: 1.1rem; }
-    }
-  </style>
-</head>
-
-<body>
-  <header>
-    <h1>Daiane Oliveira Sinzato</h1>
-    <h2>Analista de Dados & Processos</h2>
-    <div class="links">
-      <a href="https://www.linkedin.com/in/daianesinzato" target="_blank">💼 LinkedIn</a> |
-      <a href="https://github.com/daianesinzato" target="_blank">💻 GitHub</a> |
-      <a href="#" target="_blank">📊 Portfólio de Dados (em construção)</a>
-    </div>
-  </header>
-
-  <main>
-    <section id="about">
-      <h3>👩‍💻 Sobre Mim</h3>
-      <p>Oi, eu sou <strong>Daiane Sinzato</strong> — uma profissional multidisciplinar que transita entre <strong>operações, dados e tecnologia</strong>.</p>
-      <p>Atuo hoje como <strong>Analista de Dados e Gerente de Operações</strong>, com foco em <strong>otimização de processos, automação e tomada de decisão baseada em evidências</strong>.</p>
-      <p>Tenho mais de 10 anos de experiência somando atendimento, gestão e supply chain, o que me deu uma visão sistêmica e prática sobre negócios. Gosto de unir <strong>olhar analítico + execução rápida</strong> para transformar gargalos em sistemas funcionais — de planilhas inteligentes a painéis integrados via API.</p>
-      <ul>
-        <li>💡 <strong>O que me move:</strong> entender problemas de ponta a ponta e desenhar soluções escaláveis que tragam impacto real.</li>
-        <li>🧠 <strong>Como penso:</strong> dados contam histórias, e meu trabalho é traduzi-las em decisões.</li>
-        <li>⚙️ <strong>Como ajo:</strong> prototipo, testo e melhoro — até funcionar no mundo real.</li>
-      </ul>
-    </section>
-
-    <section id="education">
-      <h3>🎓 Formação Acadêmica</h3>
-      <ul>
-        <li><strong>Tecnóloga em Processos Gerenciais</strong> – Fundação Getúlio Vargas (FGV), 2020</li>
-        <li><strong>Bootcamp em Análise de Dados</strong> – Laboratoria, conclusão prevista para setembro de 2024</li>
-      </ul>
-    </section>
-
-    <section id="skills">
-      <h3>🧰 Habilidades Técnicas</h3>
-      <img class="divider-gif" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="skills divider">
-
-      <ul>
-        <li><strong>Análise de Dados:</strong> Python (pandas, numpy, matplotlib), SQL, Power BI, Looker Studio</li>
-        <li><strong>Automação e Integração:</strong> Google Apps Script, API REST (Tiny ERP, Trello, Supabase)</li>
-        <li><strong>Gestão e Processos:</strong> BPMN, Supply Chain, PCP, Indicadores de Performance</li>
-        <li><strong>Ferramentas:</strong> Google Workspace, GitHub, Notion, Airtable, Trello</li>
-        <li><strong>Soft Skills:</strong> comunicação, resiliência, liderança por evidência e entrega com propósito</li>
-      </ul>
-
-      <div class="skills-grid">
-        <div class="skill-item">
-          <h4>Python</h4>
-          <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Python skill">
-          <div class="progress-bar"><div class="progress" style="width: 90%"></div></div>
-          <span>(90%)</span>
-        </div>
-
-        <div class="skill-item">
-          <h4>SQL</h4>
-          <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="SQL skill">
-          <div class="progress-bar"><div class="progress" style="width: 85%"></div></div>
-          <span>(85%)</span>
-        </div>
-
-        <div class="skill-item">
-          <h4>Power BI</h4>
-          <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="Power BI skill">
-          <div class="progress-bar"><div class="progress" style="width: 88%"></div></div>
-          <span>(88%)</span>
-        </div>
-
-        <div class="skill-item">
-          <h4>Google Apps Script</h4>
-          <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" alt="Google Script skill">
-          <div class="progress-bar"><div class="progress" style="width: 80%"></div></div>
-          <span>(80%)</span>
-        </div>
-
-        <div class="skill-item">
-          <h4>Looker Studio</h4>
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWx6ejd6eXl5dzZ3dmh6OG5jN2EwZjN1dnV2ZDU3Y2dwdDlneWlnMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pG4nZz2Qd0b3O/giphy.gif" alt="Looker skill">
-          <div class="progress-bar"><div class="progress" style="width: 90%"></div></div>
-          <span>(90%)</span>
-        </div>
-
-        <div class="skill-item">
-          <h4>BPMN</h4>
-          <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="BPMN skill">
-          <div class="progress-bar"><div class="progress" style="width: 95%"></div></div>
-          <span>(95%)</span>
-        </div>
-
-        <div class="skill-item">
-          <h4>Planilhas Google</h4>
-          <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" alt="Sheets skill">
-          <div class="progress-bar"><div class="progress" style="width: 89%"></div></div>
-          <span>(89%)</span>
-        </div>
-      </div>
-    </section>
-
-    <section id="projects">
-      <h3>🚀 Projetos em Destaque</h3>
-      <ul>
-        <li><strong>Orbitta Systems (Berzerk)</strong> – Criação de um sistema interno de controle de produção e estoque integrado via Google Apps Script + Sheets + Tiny API.</li>
-        <li><strong>Pick & Packing Automation</strong> – Pipeline automatizado de separação e conferência de pedidos com integração em tempo real com ERP e Correios.</li>
-        <li><strong>Dashboard de Produção</strong> – Painel em Power BI com métricas de performance, produtividade e SLA.</li>
-        <li><strong>Sistema de Controle de Corte e Costura</strong> – WebApp completo de PCP com logs, auditoria e cálculo de consumo automatizado.</li>
-      </ul>
-    </section>
-  </main>
-
-  <footer>
-    <p>Feito com ❤️ por Daiane Sinzato | <a href="https://github.com/daianesinzato" target="_blank">Ver no GitHub</a></p>
-    <img class="footer-gif" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="footer animation">
-  </footer>
-</body>
-</html>
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
