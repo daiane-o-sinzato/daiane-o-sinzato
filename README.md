@@ -4,7 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Daiane Sinzato | Analista de Dados & Processos</title>
+
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
   <style>
     body {
       font-family: 'Poppins', sans-serif;
@@ -122,6 +124,15 @@
       color: #FFD700;
       text-decoration: none;
     }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.8rem; }
+      header h2 { font-size: 1.1rem; }
+    }
   </style>
 </head>
 
@@ -173,20 +184,41 @@
           <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Python skill">
           <div class="progress-bar"><div class="progress" style="width: 90%"></div></div>
         </div>
+
         <div class="skill-item">
           <h4>SQL</h4>
           <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="SQL skill">
           <div class="progress-bar"><div class="progress" style="width: 85%"></div></div>
         </div>
+
         <div class="skill-item">
           <h4>Power BI</h4>
           <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="Power BI skill">
           <div class="progress-bar"><div class="progress" style="width: 88%"></div></div>
         </div>
+
         <div class="skill-item">
           <h4>Google Apps Script</h4>
           <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" alt="Google Script skill">
           <div class="progress-bar"><div class="progress" style="width: 80%"></div></div>
+        </div>
+
+        <div class="skill-item">
+          <h4>Looker Studio</h4>
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWx6ejd6eXl5dzZ3dmh6OG5jN2EwZjN1dnV2ZDU3Y2dwdDlneWlnMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pG4nZz2Qd0b3O/giphy.gif" alt="Looker skill">
+          <div class="progress-bar"><div class="progress" style="width: 90%"></div></div>
+        </div>
+
+        <div class="skill-item">
+          <h4>BPMN</h4>
+          <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="BPMN skill">
+          <div class="progress-bar"><div class="progress" style="width: 95%"></div></div>
+        </div>
+
+        <div class="skill-item">
+          <h4>Planilhas Google</h4>
+          <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" alt="Sheets skill">
+          <div class="progress-bar"><div class="progress" style="width: 89%"></div></div>
         </div>
       </div>
     </section>
@@ -194,8 +226,8 @@
     <section id="projects">
       <h3>🚀 Projetos em Destaque</h3>
       <ul>
-        <li><strong>Orbitta Systems (Berzerk)</strong> – Sistema interno de controle de produção e estoque integrado via Google Apps Script + Tiny ERP.</li>
-        <li><strong>Pick & Packing Automation</strong> – Pipeline automatizado de separação e conferência de pedidos com integração Tiny + Correios.</li>
+        <li><strong>Orbitta Systems (Berzerk)</strong> – Criação de um sistema interno de controle de produção e estoque integrado via Google Apps Script + Sheets + Tiny API.</li>
+        <li><strong>Pick & Packing Automation</strong> – Pipeline automatizado de separação e conferência de pedidos com integração em tempo real com ERP e Correios.</li>
         <li><strong>Dashboard de Produção</strong> – Painel em Power BI com métricas de performance, produtividade e SLA.</li>
         <li><strong>Sistema de Controle de Corte e Costura</strong> – WebApp completo de PCP com logs, auditoria e cálculo de consumo automatizado.</li>
       </ul>
